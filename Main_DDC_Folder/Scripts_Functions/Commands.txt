@@ -1,0 +1,1 @@
+scp cbohrer1@jhu.edu@gateway2.marcc.jhu.edu:/home-1/cbohrer1@jhu.edu/EZRDM_data_for_rRNA_RNAPONLYANALYZED.mat EZRDM_data_for_rRNA_RNAPONLYANALYZED2.mat
